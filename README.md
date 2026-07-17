@@ -1,2 +1,1 @@
-# Gateway
-Gateway de pagamento moderno para aplicações web, com suporte a PIX, cartões, assinaturas, webhooks e integração com múltiplos provedores de pagamento.
+[![Sistema de pagamento Oficial da Nortiva.](https://img.youtube.com/vi/PawqTHoLFHA/maxresdefault.jpg)](https://www.youtube.com/watch?v=PawqTHoLFHA)
